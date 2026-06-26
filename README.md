@@ -122,7 +122,7 @@ Contributed to responsive web pages, UI/UX implementation, and cross-device inte
 <table>
 <tr>
 <td align="center" width="25%">
-<h3>1st Place</h3>
+<h3>Winner</h3>
 <p>Arab AI & IoT Challenge</p>
 </td>
 <td align="center" width="25%">
@@ -130,8 +130,8 @@ Contributed to responsive web pages, UI/UX implementation, and cross-device inte
 <p>Represented Tunisia globally</p>
 </td>
 <td align="center" width="25%">
-<h3>600+</h3>
-<p>Regional participants</p>
+<h3>90+</h3>
+<p>Hackthons</p>
 </td>
 <td align="center" width="25%">
 <h3>Builder</h3>
