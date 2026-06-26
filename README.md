@@ -1,4 +1,4 @@
-````md
+
 <!--
   Mohamed Khalil Chouchen — GitHub Profile README
   Profile Repository: khalil-chouchen/khalil-chouchen
@@ -428,4 +428,4 @@ I enjoy building because ideas are useless until they become real.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:facc15&height=120&section=footer" />
 
 </div>
-```
+
