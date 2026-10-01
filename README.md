@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Mohamed%20Khalil%20Chouchen&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20%E2%80%A2%20AI%20%E2%80%A2%20IoT%20%E2%80%A2%20Mobile&descAlignY=58&descSize=18" />
+<h1>Mohamed Khalil Chouchen</h1>
+
+<p><strong>IT Technician & Full-Stack Developer</strong> · Web · Mobile · AI · IoT</p>
 
 ### Building intelligent software that connects AI, IoT, and real-world impact.
 
-<a href="https://khalilchouchen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://tn.linkedin.com/in/khalil-chouchen-a178112b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://khalilchouchen.me"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/khalil-chouchen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:khalilchouchen112@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -14,18 +16,18 @@
 
 ### About Me
 
-- IoT Engineering graduate from **ISITCOM**, building products where software meets the physical world
-- **1st Place — Arab AI & IoT Challenge**, represented Tunisia at **GITEX Global Dubai**
-- Experience across full-stack web, mobile apps, AI models and connected devices
-- Teacher at heart — I enjoy making complex ideas simple
+- 🎓 Computer Engineering graduate from **ISITCOM Sousse** — Embedded Systems & IoT
+- 💼 **COO at 3M Consulting**, after serving as its CTO — from developer to leadership in three years
+- 🏆 **1st Place — Arab AI & IoT Challenge, GITEX Global Dubai** (600+ participants)
+- 🛠️ I build end to end: web, mobile, AI and connected devices
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,react,nextjs,nodejs,express,tailwind&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,git,arduino,raspberrypi,tensorflow,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,react,nextjs,nodejs&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,arduino,linux,git,figma&theme=dark" />
 </p>
 
 ---
@@ -37,14 +39,14 @@
 <td width="50%" valign="top">
 
 **🌱 AgriNova**<br/>
-AI + IoT smart agriculture system: mobile app, live sensor telemetry, AI plant vision and remote irrigation control.<br/>
+Smart agriculture system: React Native app with an AI vision studio for real-time crop-disease detection, IoT sensor telemetry and remote valve control.<br/>
 <sub>React Native · IoT · Computer Vision</sub>
 
 </td>
 <td width="50%" valign="top">
 
 **🚕 [Bebe Taxi](https://github.com/khalil-chouchen/Bebe_Taxi)**<br/>
-Real-time taxi booking app with client and driver roles, OTP authentication and live tracking.<br/>
+Real-time taxi booking app with client and driver roles, OTP authentication and live updates.<br/>
 <sub>Expo · Next.js · Socket.IO · MongoDB</sub>
 
 </td>
@@ -52,16 +54,16 @@ Real-time taxi booking app with client and driver roles, OTP authentication and 
 <tr>
 <td width="50%" valign="top">
 
-**🏠 [SmartHome IoT Dashboard](https://github.com/khalil-chouchen/SmartHome-IoT-Dashboard)**<br/>
-Web dashboard to monitor and control connected home devices.<br/>
-<sub>JavaScript · IoT</sub>
+**💬 [WhatsApp Auto-Messaging](https://github.com/khalil-chouchen/auto_whts)**<br/>
+Automation tool for sending WhatsApp outreach messages at scale.<br/>
+<sub>Python · Automation</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**🌦️ [AI Weather Predictor](https://github.com/khalil-chouchen/AI-Weather-Predictor)**<br/>
-Machine learning model that forecasts weather from historical data.<br/>
-<sub>Python · Jupyter · ML</sub>
+**🔎 [Lead Scraper](https://github.com/khalil-chouchen/Web-Scrapting)**<br/>
+Web-scraping app that collects targeted email and WhatsApp leads.<br/>
+<sub>Python · Web Scraping</sub>
 
 </td>
 </tr>
@@ -73,16 +75,26 @@ Machine learning model that forecasts weather from historical data.<br/>
 
 | Role | Company | Period |
 |---|---|---|
-| IoT & Mobile Intern | InnoVibe | Jan 2026 — Jun 2026 |
-| Computer Science Instructor | Private School, Monastir | Sep 2025 — Jun 2026 |
-| Frontend Web Intern | TYM Solutions | Jun 2025 — Aug 2025 |
+| Chief Operating Officer (COO) | 3M Consulting | Jun 2026 — Present |
+| Chief Technology Officer (CTO) | 3M Consulting | Jun 2025 — Jun 2026 |
+| IoT & Mobile Development Intern | InnoVibe | Jan 2026 — Jun 2026 |
+| Frontend Developer Intern | TYM Solutions | Jun 2025 — Aug 2025 |
+| Computer Science Instructor | Private School, Monastir | Sep 2024 — Jun 2025 |
+| Freelance Developer & Designer | Self-Employed | Sep 2023 — Present |
+
+---
+
+### Awards
+
+- 🥇 1st Place — Arab AI & IoT Challenge, GITEX Global Dubai
+- 🥇 1st Place — B-Tech Competition
+- 🏅 Winner — Nuit de l'Info & IEEE hackathons
+- 🚩 Cybersecurity CTF competitor
 
 ---
 
 <div align="center">
 
 **Open to opportunities in Full Stack, AI and IoT.** Let's build something useful.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" />
 
 </div>
