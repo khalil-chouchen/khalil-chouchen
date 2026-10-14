@@ -16,8 +16,8 @@
 
 ### About Me
 
-- 🎓 Computer Engineering graduate from **ISITCOM Sousse** — Embedded Systems & IoT
-- 💼 **COO at 3M Consulting**, after serving as its CTO — from developer to leadership in three years
+- 🎓 Engineering student at **EPI School** · Computer Engineering degree from **ISITCOM Sousse** (Embedded Systems & IoT)
+- 💼 Administrative & Operations Manager at **3M Consulting**, freelance developer since 2023
 - 🏆 **1st Place — Arab AI & IoT Challenge, GITEX Global Dubai** (600+ participants)
 - 🛠️ I build end to end: web, mobile, AI and connected devices
 
@@ -75,12 +75,19 @@ Web-scraping app that collects targeted email and WhatsApp leads.<br/>
 
 | Role | Company | Period |
 |---|---|---|
-| Chief Operating Officer (COO) | 3M Consulting | Jun 2026 — Present |
-| Chief Technology Officer (CTO) | 3M Consulting | Jun 2025 — Jun 2026 |
+| Administrative & Operations Manager | 3M Consulting | Jun 2026 — Present |
 | IoT & Mobile Development Intern | InnoVibe | Jan 2026 — Jun 2026 |
+| Help Desk | MMS International | Sep 2025 — Mar 2026 |
 | Frontend Developer Intern | TYM Solutions | Jun 2025 — Aug 2025 |
 | Computer Science Instructor | Private School, Monastir | Sep 2024 — Jun 2025 |
 | Freelance Developer & Designer | Self-Employed | Sep 2023 — Present |
+
+---
+
+### Education
+
+- 🎓 Engineering Cycle — **EPI School** · 2026 — Present
+- 🎓 Bachelor's in Computer Engineering — **ISITCOM Sousse** · 2023 — 2026 · Embedded Systems & IoT
 
 ---
 
